@@ -4,7 +4,7 @@ Welcom to my awsome trivia challange!
 
 ## Theme
 
-[ADD YOUR TRIVIA THEME]
+General knowledge about the world
 
 ## Instrutions
 
