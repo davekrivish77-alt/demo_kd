@@ -1,0 +1,5 @@
+Meeting starts at 2pm
+Git usually combines changes automatically.
+A merge conflict happens when Git cannot combine competing changes automatically.
+A common cause is different edits to the same line in the same file.
+Someone must decide the correct final content before merging.
