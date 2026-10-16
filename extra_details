@@ -1,4 +1,4 @@
-Meeting starts at 2pm
+Meeting starts at 3pm
 Git usually combines changes automatically.
 A merge conflict happens when Git cannot combine competing changes automatically.
 A common cause is different edits to the same line in the same file.
